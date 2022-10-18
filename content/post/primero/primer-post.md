@@ -7,7 +7,3 @@ draft: false
 # Intro
 
 Post de prueba
-uwu
-owo
-7u7
-xd
