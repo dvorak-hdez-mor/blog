@@ -1,0 +1,24 @@
+baseURL: "http://example.org/"
+languageCode: "en-us"
+title: "My New Hugo Site"
+theme: 'hugo-theme-stack'
+paginate: 5
+title: Example Site
+
+DefaultContentLanguage: en
+
+params:
+  title: Mi nuevo sitio
+  description: En construcción
+  author: Miguel Hdez
+
+  homeInfoParams:
+    Title: "Hola amigos"
+    Content: Bienvenidos
+
+menu:
+  main:
+    - identifier: post
+      name: Post
+      url: 'post/'
+      weight: 10
